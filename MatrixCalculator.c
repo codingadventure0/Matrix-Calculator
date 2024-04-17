@@ -198,7 +198,7 @@ int main() {
 
     printf("\t\t\t---------Thanks for using the matrix calculator.---------\n");
     printf("\t\t\t-------follow our github account for more programs.-------\n");
-    printf("\t\t\t--------------https://github.com/abhibth977---------------\n\n");
+    printf("\t\t\t--------------https://github.com/codingadventure0---------------\n\n");
 
     return 0;
 }
