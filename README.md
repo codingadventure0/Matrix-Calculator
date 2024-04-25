@@ -40,6 +40,8 @@ When running the program, you will be prompted to enter the number of rows and c
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on [GitHub](https://github.com/codingadventure0).
 
+## Acknowledgments
+Thank you for using the Yearly Calendar Generator! Developed by [Abhishek Kumar].
 
 ## License
 
